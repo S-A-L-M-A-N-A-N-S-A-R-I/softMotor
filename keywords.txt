@@ -1,0 +1,9 @@
+softMotor   KEYWORD1
+on          KEYWORD2
+off         KEYWORD2
+quickOff    KEYWORD2
+fullShut    KEYWORD2
+setOffSpeed KEYWORD2
+setMaxSpeed KEYWORD2
+setCurrentSpeed KEYWORD2
+currentspeed KEYWORD2
