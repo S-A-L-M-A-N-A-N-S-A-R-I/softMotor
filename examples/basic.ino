@@ -18,7 +18,7 @@ void loop() {
     // Update motor state
     pumpMotor.alive();
     
-    // Example: Turn motor on and off every 3 seconds
+    // Example: Turn motor on and off every 5 seconds
     static elapsedMillis timer;
     if (timer > 5000) {
         if (pumpMotor.currentspeed() > 0) {
